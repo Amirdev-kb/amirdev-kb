@@ -72,5 +72,21 @@ ___
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
 </p>
 
+☕ Support & Sponsorship
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/Amirdev_kb"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>
+  <a href="https://www.paypal.me/Amirdev_kb"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" /></a>
+  <a href="https://github.com/sponsors/Amirdev-kb"><img src="https://img.shields.io/badge/GitHub_Sponsors-30363D?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+---
+
+"Great code is crafted, tested, secured, and shared."
+
+---
+
+⭐ If this README inspired you, drop a star – it fuels the dragon's fire! ⭐
+
 ___
 
