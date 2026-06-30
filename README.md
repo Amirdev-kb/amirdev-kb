@@ -34,18 +34,13 @@ Polyglot developer with full mastery across 20+ languages. I engineer elegant, s
 </p>
 
 ___
-🎯 Open Source Contributions
+
+🎲 Random Dev Quote
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Total_Stars-0-ffd700?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Total_Forks-0-00C6FF?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/PRs_Opened-0-brightgreen?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Issues_Opened-0-red?style=for-the-badge&logo=github&logoColor=white" />
-  <br />
-  <img src="https://img.shields.io/badge/Repositories-0-9cf?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gists-0-purple?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Followers-0-blue?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
 </p>
+
 ___
 
 ## 🛠️ Language Mastery – Full Stack
@@ -81,14 +76,3 @@ ___
 
 ---
 
-## ⚡ My Daily Toolkit
-
-```txt
-OS       : Kali Linux / Ubuntu / Windows 11
-Editor   : VS Code (80+ extensions)
-Langs    : Python, JS, TS, PHP, Java, C#, C++, C, Go, Rust, Ruby, Swift, Kotlin, Bash, HTML/CSS, R, Dart, Perl, Lua, Scala, Elixir, SQL
-Web      : React, Next.js, Node.js, Django, Flask, Spring Boot, Ruby on Rails, ASP.NET, Phoenix
-Security : Nmap, Burp Suite, Metasploit, Wireshark, John, Hydra, Sqlmap, Nikto, Nessus, ZAP
-DB       : PostgreSQL, MySQL, MongoDB, Redis, SQLite, Oracle, Cassandra
-DevOps   : Docker, Kubernetes, Jenkins, GitHub Actions, Terraform, Ansible
-Cloud    : AWS, Azure, GCP, DigitalOcean
