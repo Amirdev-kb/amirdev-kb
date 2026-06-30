@@ -13,7 +13,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Amirdev-kb&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&icon_color=00C6FF&title_color=00C6FF" width="45%" />
-  <img src="https://streak-stats.demolab.com/?user=Amirdev-kb&theme=radical&hide_border=true&background=0d1117&fire=00C6FF&ring=00C6FF&currStreakNum=FFFFFF" width="45%" />
 </p>
 
 ---
