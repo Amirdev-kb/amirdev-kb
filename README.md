@@ -10,7 +10,7 @@
 
 ---
 
-## ◆ Polymath Programmer & Security Architect
+## 🧑‍💻 Polymath Programmer & Security Architect
 
 > *"Code is my language – security is my mission."*
 
@@ -18,7 +18,7 @@ Polyglot developer with full mastery across 20+ languages. I engineer elegant, s
 
 ---
 
-## ◆ Language Mastery – Visual Edition
+## 🛠️ Language Mastery – Full Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -51,7 +51,7 @@ Polyglot developer with full mastery across 20+ languages. I engineer elegant, s
 
 ---
 
-## ▸ My Daily Arsenal
+## ⚡ My Daily Toolkit
 
 ```txt
 OS       : Kali Linux / Ubuntu / Windows 11
