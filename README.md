@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://www.kali.org/images/kali-dragon-icon.svg" alt="Kali Dragon" width="120" height="120" />
   <br />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00C6FF&center=true&vCenter=true&random=false&width=600;lines=Hi%2C+I'm+Amirdev;Ethical+Hacker+%26+Web+Dev;Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00C6FF&center=true&vCenter=true&random=false&width=600&lines=Hi%2C+I'm+Amirdev;Ethical+Hacker+%26+Web+Dev;Always+Learning+New+Things" alt="Typing SVG" />
 </p>
 
 <p align="center">
