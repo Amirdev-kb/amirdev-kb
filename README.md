@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://www.kali.org/images/kali-dragon-icon.svg" alt="Kali Dragon" width="120" height="120" />
   <br />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00C6FF&center=true&vCenter=true&random=false&width=600&lines=Hi%2C+I'm+Amirdev;Ethical+Hacker+%26+Web+Dev;Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00C6FF&center=true&vCenter=true&random=false&width=600&lines=Hi%2C+I'm+Amirdev;%D8%AF%D8%B1%D8%A8%D8%A7%D8%B1%D9%87%20%D9%BE%D8%B1%D9%88%DA%98%D9%87%20%D9%87%D8%A7%DB%8C%20%DA%A9%D9%87%20%DA%A9%D8%A7%D8%B1%20%DA%A9%D8%B1%D8%AF%D9%85%20%D8%A7%D8%B3%D9%85%20%DA%86%D9%86%D8%AA%D8%A7%20%D9%BE%D8%B1%D9%88%DA%98%D9%87%20%D8%AE%D9%81%D9%86%20%D9%88%D9%85%D8%B9%D8%B1%D9%88%D9%81%20%D8%A8%D8%A8%D8%B1;Always+Learning+New+Things" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -10,9 +10,9 @@
 
 ---
 
-## 🧑‍💻 Polymath Programmer & Security Architect
+🧑‍💻 Polymath Programmer & Security Architect
 
-> *"Code is my language – security is my mission."*
+"Code is my language – security is my mission."
 
 Polyglot developer with full mastery across 20+ languages. I engineer elegant, secure, and scalable solutions – from systems to web, mobile to cloud, automation to AI.
 
@@ -44,7 +44,6 @@ Polyglot developer with full mastery across 20+ languages. I engineer elegant, s
   <img src="https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
-
 
 ---
 
