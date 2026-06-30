@@ -16,35 +16,6 @@
 
 Polyglot developer with full mastery across 20+ languages. I engineer elegant, secure, and scalable solutions – from systems to web, mobile to cloud, automation to AI.
 
----
-📈 GitHub Profile Summary Cards
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Amirdev-kb&theme=radical" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Amirdev-kb&theme=radical" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Amirdev-kb&theme=radical" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Amirdev-kb&theme=radical" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Amirdev-kb&theme=radical&utcOffset=3.5" width="48%" />
-</p>
-
-___
-
-🎲 Random Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
-</p>
-
-___
-
-## 🛠️ Language Mastery – Full Stack
-
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -74,5 +45,31 @@ ___
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
+
 ---
+📈 GitHub Profile Summary Cards
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Amirdev-kb&theme=radical" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Amirdev-kb&theme=radical" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Amirdev-kb&theme=radical" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Amirdev-kb&theme=radical" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Amirdev-kb&theme=radical&utcOffset=3.5" width="48%" />
+</p>
+
+___
+
+🎲 Random Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+</p>
+
+___
 
