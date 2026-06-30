@@ -71,5 +71,12 @@ ___
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
 </p>
 
+📡 Recent GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Amirdev-kb&theme=radical&hide_border=true&area=true&bg_color=0d1117&color=00C6FF&line=00C6FF&point=FFFFFF" width="100%" />
+</p>
+
+
 ___
 
