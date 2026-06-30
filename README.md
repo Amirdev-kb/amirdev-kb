@@ -63,10 +63,12 @@ Polyglot developer with full mastery across 20+ languages. I engineer elegant, s
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Amirdev-kb&theme=radical&utcOffset=3.5" width="48%" />
 </p>
 ___
+
 🎲 Random Dev Quote
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
 </p>
+
 ___
 
