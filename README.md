@@ -33,6 +33,19 @@ Polyglot developer with full mastery across 20+ languages. I engineer elegant, s
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Amirdev-kb&theme=radical&utcOffset=3.5" width="48%" />
 </p>
 ---
+🎯 Open Source Contributions
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Total_Stars-0-ffd700?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Total_Forks-0-00C6FF?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/PRs_Opened-0-brightgreen?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Issues_Opened-0-red?style=for-the-badge&logo=github&logoColor=white" />
+  <br />
+  <img src="https://img.shields.io/badge/Repositories-0-9cf?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gists-0-purple?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Followers-0-blue?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+___
 
 ## 🛠️ Language Mastery – Full Stack
 
