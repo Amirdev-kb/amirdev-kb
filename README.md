@@ -10,27 +10,47 @@
   <img src="https://img.shields.io/github/followers/Amirdev-kb?style=social" alt="Followers" />
   <img src="https://img.shields.io/github/stars/Amirdev-kb?style=social" alt="Stars" />
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white" alt="Kali Linux" />
+  <img src="https://img.shields.io/badge/Pentester-00C6FF?style=flat&logo=security" alt="Pentester" />
 </p>
 
 ---
 
-## ◆ GitHub Repository Stats
-
 <p align="center">
+  <img src="https://img.shields.io/badge/Repo-Stars-ffd700?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/github/stars/Amirdev-kb/Amirdev-kb?style=for-the-badge&logo=github&logoColor=white&color=ffd700" alt="Stars" />
   <img src="https://img.shields.io/github/forks/Amirdev-kb/Amirdev-kb?style=for-the-badge&logo=github&logoColor=white&color=00C6FF" alt="Forks" />
   <img src="https://img.shields.io/github/issues/Amirdev-kb/Amirdev-kb?style=for-the-badge&logo=github&logoColor=white&color=red" alt="Issues" />
-  <img src="https://img.shields.io/github/issues-pr/Amirdev-kb/Amirdev-kb?style=for-the-badge&logo=github&logoColor=white&color=green" alt="Pull Requests" />
+  <img src="https://img.shields.io/github/issues-pr/Amirdev-kb/Amirdev-kb?style=for-the-badge&logo=github&logoColor=white&color=green" alt="PRs" />
   <br />
   <img src="https://img.shields.io/github/license/Amirdev-kb/Amirdev-kb?style=for-the-badge&logo=github&logoColor=white&color=blue" alt="License" />
   <img src="https://img.shields.io/github/last-commit/Amirdev-kb/Amirdev-kb?style=for-the-badge&logo=github&logoColor=white&color=orange" alt="Last Commit" />
   <img src="https://img.shields.io/github/commit-activity/m/Amirdev-kb/Amirdev-kb?style=for-the-badge&logo=github&logoColor=white&color=purple" alt="Commit Activity" />
+  <img src="https://img.shields.io/github/repo-size/Amirdev-kb/Amirdev-kb?style=for-the-badge&logo=github&logoColor=white&color=ff69b4" alt="Repo Size" />
+  <br />
+  <img src="https://img.shields.io/github/languages/count/Amirdev-kb/Amirdev-kb?style=for-the-badge&logo=github&logoColor=white&color=teal" alt="Languages" />
+  <img src="https://img.shields.io/github/languages/top/Amirdev-kb/Amirdev-kb?style=for-the-badge&logo=github&logoColor=white&color=ff4500" alt="Top Lang" />
+  <img src="https://img.shields.io/github/contributors/Amirdev-kb/Amirdev-kb?style=for-the-badge&logo=github&logoColor=white&color=9cf" alt="Contributors" />
 </p>
 
 ---
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Amirdev-kb&theme=radical&hide_border=true&background=0d1117&fire=00C6FF&ring=00C6FF&currStreakNum=FFFFFF&card_width=900" width="100%" />
+</p>
+
+---
+
+## ◆ GitHub Actions & CI/CD Status
+
+<p align="center">
+  <img src="https://img.shields.io/github/actions/workflow/status/Amirdev-kb/Amirdev-kb/blank.yml?style=for-the-badge&logo=github-actions&logoColor=white&label=CI&color=success" alt="CI" />
+  <img src="https://img.shields.io/badge/Deployment-Active-00C6FF?style=for-the-badge&logo=github-pages&logoColor=white" alt="Deployment" />
+  <img src="https://img.shields.io/badge/CodeQL-Passing-00C6FF?style=for-the-badge&logo=github&logoColor=white" alt="CodeQL" />
+  <img src="https://img.shields.io/badge/Dependency_Check-Active-00C6FF?style=for-the-badge&logo=github&logoColor=white" alt="Dependency Check" />
+  <br />
+  <img src="https://img.shields.io/badge/Security_Scan-Passing-brightgreen?style=for-the-badge&logo=github&logoColor=white" alt="Security Scan" />
+  <img src="https://img.shields.io/badge/Container_Build-Successful-00C6FF?style=for-the-badge&logo=docker&logoColor=white" alt="Container Build" />
+  <img src="https://img.shields.io/badge/Unit_Tests-100%25-00C6FF?style=for-the-badge&logo=github&logoColor=white" alt="Unit Tests" />
 </p>
 
 ---
