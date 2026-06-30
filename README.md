@@ -57,13 +57,25 @@ I'm a **Web Developer** & **Cybersecurity Enthusiast** who lives at the intersec
 
 ## 🚀 Featured Projects
 
-| Project | Description | Tech Stack | Status |
-|---------|-------------|------------|--------|
-| **Project Alpha** | Advanced port scanner with vulnerability detection | Python, Nmap | 🚧 In Development |
-| **Project Beta** | Real-time chat application with encryption | Node.js, Socket.io, AES | ✅ Completed |
-| **Project Gamma** | Automated bug bounty report generator | PHP, MySQL, REST API | 📝 Planning |
+| Project | Description | Tech Stack | Status | Repository |
+|---------|-------------|------------|--------|------------|
+| **🛡️ VulnScanner** | Advanced port scanner with vulnerability detection and CVE mapping | Python, Nmap, Shodan API | <img src="https://img.shields.io/badge/status-in%20development-yellow?style=flat-square" /> | [🔗 Repo](https://github.com/Amirdev-kb/vulnscanner) |
+| **🔐 SecureChat** | Real‑time encrypted chat app with AES‑256 and end‑to‑end encryption | Node.js, Socket.io, CryptoJS | <img src="https://img.shields.io/badge/status-completed-brightgreen?style=flat-square" /> | [🔗 Repo](https://github.com/Amirdev-kb/securechat) |
+| **📊 BugReportGen** | Automated bug bounty report generator with PDF output and templates | PHP, MySQL, TCPDF, REST API | <img src="https://img.shields.io/badge/status-planning-blue?style=flat-square" /> | [🔗 Repo](https://github.com/Amirdev-kb/bugreportgen) |
+| **🧪 KaliToolkit** | Collection of custom bash scripts for Kali Linux automation & recon | Bash, Python, Kali tools | <img src="https://img.shields.io/badge/status-alpha-orange?style=flat-square" /> | [🔗 Repo](https://github.com/Amirdev-kb/kalitoolkit) |
 
-> 🔗 More projects coming soon – stay tuned!
+> 🔗 **Live Demos & Documentation** – each repo includes a full README, installation guide, and usage examples.
+
+---
+
+## 📌 Upcoming Projects (Ideas I'm working on)
+
+- **🕵️ OSINT‑X** – A modular OSINT framework for social media & domain intelligence  
+- **🐳 Docker‑Sec** – Lightweight container security scanner for CI/CD pipelines  
+- **📡 NetMonitor** – Real‑time network traffic visualizer with alerting system  
+- **🧠 AI‑Phish** – ML‑based phishing URL detector using Python & TensorFlow  
+
+> 💡 *Got an idea? Feel free to pitch it – I'm always open to collaborations!*
 
 ---
 
