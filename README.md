@@ -6,75 +6,57 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Amirdev-kb&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  <br />
-  <img src="https://img.shields.io/github/followers/Amirdev-kb?style=social" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/Amirdev-kb?style=social" alt="Stars" />
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white" alt="Kali Linux" />
-  <img src="https://img.shields.io/badge/Pentester-00C6FF?style=flat&logo=security" alt="Pentester" />
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Repo-Stars-ffd700?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/github/stars/Amirdev-kb/Amirdev-kb?style=for-the-badge&logo=github&logoColor=white&color=ffd700" alt="Stars" />
-  <img src="https://img.shields.io/github/forks/Amirdev-kb/Amirdev-kb?style=for-the-badge&logo=github&logoColor=white&color=00C6FF" alt="Forks" />
-  <img src="https://img.shields.io/github/issues/Amirdev-kb/Amirdev-kb?style=for-the-badge&logo=github&logoColor=white&color=red" alt="Issues" />
-  <img src="https://img.shields.io/github/issues-pr/Amirdev-kb/Amirdev-kb?style=for-the-badge&logo=github&logoColor=white&color=green" alt="PRs" />
-  <br />
-  <img src="https://img.shields.io/github/license/Amirdev-kb/Amirdev-kb?style=for-the-badge&logo=github&logoColor=white&color=blue" alt="License" />
-  <img src="https://img.shields.io/github/last-commit/Amirdev-kb/Amirdev-kb?style=for-the-badge&logo=github&logoColor=white&color=orange" alt="Last Commit" />
-  <img src="https://img.shields.io/github/commit-activity/m/Amirdev-kb/Amirdev-kb?style=for-the-badge&logo=github&logoColor=white&color=purple" alt="Commit Activity" />
-  <img src="https://img.shields.io/github/repo-size/Amirdev-kb/Amirdev-kb?style=for-the-badge&logo=github&logoColor=white&color=ff69b4" alt="Repo Size" />
-  <br />
-  <img src="https://img.shields.io/github/languages/count/Amirdev-kb/Amirdev-kb?style=for-the-badge&logo=github&logoColor=white&color=teal" alt="Languages" />
-  <img src="https://img.shields.io/github/languages/top/Amirdev-kb/Amirdev-kb?style=for-the-badge&logo=github&logoColor=white&color=ff4500" alt="Top Lang" />
-  <img src="https://img.shields.io/github/contributors/Amirdev-kb/Amirdev-kb?style=for-the-badge&logo=github&logoColor=white&color=9cf" alt="Contributors" />
-</p>
+## ◆ Polymath Programmer & Security Architect
+
+> *"Code is my language – security is my mission, and every line tells a story."*
+
+I am a **polyglot programmer** with mastery across **all major programming languages** – from low‑level systems to high‑level web frameworks, from mobile to cloud, from automation to artificial intelligence. I don't just write code; I engineer solutions that are **elegant, secure, and scalable**.
+
+My expertise spans **20+ languages**, **full‑stack development**, **DevOps**, **cybersecurity**, and **cloud architecture**. I thrive in the terminal, build in VS Code, and break things ethically to make them stronger.
 
 ---
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Amirdev-kb&theme=radical&hide_border=true&background=0d1117&fire=00C6FF&ring=00C6FF&currStreakNum=FFFFFF&card_width=900" width="100%" />
-</p>
+## ◆ Languages – Full Mastery (20+)
+
+| Language | Level | Key Applications |
+|----------|-------|------------------|
+| **Python** | ★★★★★ | AI/ML, Automation, Web (Django/Flask), Security Tools, Data Science |
+| **JavaScript** | ★★★★★ | Full‑Stack (React, Node, Express), Interactive UIs, Real‑time Apps |
+| **TypeScript** | ★★★★★ | Large‑Scale Web Apps, Angular, React, Enterprise Systems |
+| **PHP** | ★★★★★ | CMS (WordPress), REST APIs, Bug Bounty Platforms, Dynamic Websites |
+| **Java** | ★★★★★ | Enterprise Backends, Android, Microservices, Spring Boot |
+| **C#** | ★★★★★ | Windows Apps, Game Dev (Unity), Enterprise Software, ASP.NET |
+| **C++** | ★★★★★ | System Programming, Game Engines, Performance‑Critical Apps |
+| **C** | ★★★★★ | Operating Systems, Embedded Systems, Low‑Level Programming |
+| **Go** | ★★★★★ | Microservices, Cloud Infrastructure, High‑Performance CLI Tools |
+| **Rust** | ★★★★★ | Systems Programming, WebAssembly, Memory‑Safe Applications |
+| **Ruby** | ★★★★★ | Web (Ruby on Rails), Automation, DevOps Scripting |
+| **Swift** | ★★★★★ | iOS/macOS Applications, Mobile Development |
+| **Kotlin** | ★★★★★ | Android Development, Modern JVM Applications |
+| **Bash** | ★★★★★ | Linux Automation, System Admin, DevOps Pipelines |
+| **SQL** | ★★★★★ | Database Design, Complex Queries, Performance Tuning, Data Analysis |
+| **HTML5/CSS3** | ★★★★★ | Semantic Markup, Responsive Design, Animations, UI/UX |
+| **R** | ★★★★☆ | Statistical Computing, Data Visualization, Research |
+| **Dart** | ★★★★☆ | Cross‑Platform Mobile (Flutter), Web Apps |
+| **Perl** | ★★★★☆ | Text Processing, System Administration, Legacy Systems |
+| **Lua** | ★★★★☆ | Game Scripting, Embedded Scripting, Automation |
+| **Scala** | ★★★★☆ | Big Data (Spark), Functional Programming, JVM |
+| **Elixir** | ★★★★☆ | Scalable Web Apps (Phoenix), Fault‑Tolerant Systems |
 
 ---
 
-## ◆ GitHub Actions & CI/CD Status
-
-<p align="center">
-  <img src="https://img.shields.io/github/actions/workflow/status/Amirdev-kb/Amirdev-kb/blank.yml?style=for-the-badge&logo=github-actions&logoColor=white&label=CI&color=success" alt="CI" />
-  <img src="https://img.shields.io/badge/Deployment-Active-00C6FF?style=for-the-badge&logo=github-pages&logoColor=white" alt="Deployment" />
-  <img src="https://img.shields.io/badge/CodeQL-Passing-00C6FF?style=for-the-badge&logo=github&logoColor=white" alt="CodeQL" />
-  <img src="https://img.shields.io/badge/Dependency_Check-Active-00C6FF?style=for-the-badge&logo=github&logoColor=white" alt="Dependency Check" />
-  <br />
-  <img src="https://img.shields.io/badge/Security_Scan-Passing-brightgreen?style=for-the-badge&logo=github&logoColor=white" alt="Security Scan" />
-  <img src="https://img.shields.io/badge/Container_Build-Successful-00C6FF?style=for-the-badge&logo=docker&logoColor=white" alt="Container Build" />
-  <img src="https://img.shields.io/badge/Unit_Tests-100%25-00C6FF?style=for-the-badge&logo=github&logoColor=white" alt="Unit Tests" />
-</p>
-
----
-
-## ◆ Programming Languages I Speak
-
-| Language | Level | What I build with it |
-|----------|-------|----------------------|
-| **Python** | Advanced | Automation, hacking tools, web backends, AI scripts |
-| **JavaScript** | Advanced | Interactive UIs, full‑stack web apps (React, Node.js) |
-| **PHP** | Intermediate | Dynamic websites, REST APIs, bug bounty tools |
-| **C++** | Intermediate | Performance‑critical apps, game mods, system tools |
-| **Bash** | Advanced | Kali automation, recon scripts, Linux customization |
-| **SQL** | Intermediate | Database queries, data analysis, backend logic |
-
----
-
-## ▸ My Daily Toolkit
+## ▸ My Daily Arsenal
 
 ```txt
-OS       : Kali Linux / Ubuntu
-Editor   : VS Code (with 40+ extensions)
-Langs    : Python, JavaScript, PHP, C++, Bash
-Web      : React, Node.js, Express, HTML/CSS
-Security : Nmap, Burp Suite, Metasploit, Wireshark, John
-DB       : MySQL, MongoDB, PostgreSQL
-DevOps   : Docker, Nginx, Git
+Operating Systems : Kali Linux / Ubuntu / Windows 11
+Editor            : VS Code (80+ extensions, custom keybindings)
+Primary Languages : Python, JavaScript, TypeScript, PHP, Java, C#, C++, Go, Rust, Ruby, Swift, Kotlin, Bash, SQL
+Web Frameworks    : React, Next.js, Node.js, Express, Django, Flask, Spring Boot, Ruby on Rails, ASP.NET Core, Phoenix
+Security Tools    : Nmap, Burp Suite, Metasploit, Wireshark, John the Ripper, Hydra, Sqlmap, Nikto, Nessus, OWASP ZAP
+Databases         : PostgreSQL, MySQL, MongoDB, Redis, SQLite, Oracle, Cassandra
+DevOps & Cloud    : Docker, Kubernetes, Jenkins, GitHub Actions, Terraform, Ansible, AWS, Azure, GCP, DigitalOcean
+Version Control   : Git (advanced branching strategies, rebasing, hooks)
