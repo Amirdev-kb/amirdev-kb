@@ -8,15 +8,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Amirdev-kb&theme=radical&no-frame=true&row=2&column=4" alt="GitHub Trophies" />
-  </a>
-</p>
-
----
-
 ## 🧑‍💻 About Me
 
 I'm a passionate **Web Developer** and **Ethical Hacker** who loves building tools, solving problems, and exploring the digital world. I believe in continuous learning and sharing knowledge with the community.
@@ -58,41 +49,6 @@ I'm a passionate **Web Developer** and **Ethical Hacker** who loves building too
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=Amirdev-kb&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-  </a>
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=Amirdev-kb&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amirdev-kb&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
-  </a>
-</p>
-
----
-
-## 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Amirdev-kb&theme=radical&hide_border=true&area=true" alt="GitHub Activity Graph" width="100%" />
-</p>
-
----
-
-<!-- WakaTime Stats - نیاز به اکانت WakaTime داره، فعلاً غیرفعاله
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Amirdev-kb&theme=radical&hide_border=true&layout=compact" alt="WakaTime Stats" />
-</p>
--->
-
----
-
 ## 🚀 Featured Projects
 
 | Project | Description | Tech Stack | Status |
@@ -127,16 +83,6 @@ I'm a passionate **Web Developer** and **Ethical Hacker** who loves building too
 
 ---
 
-<!-- Spotify Now Playing - نیاز به سرویس novatorem داره، فعلاً غیرفعاله
-<p align="center">
-  <a href="https://github.com/novatorem/novatorem">
-    <img src="https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff" alt="Spotify Now Playing" />
-  </a>
-</p>
--->
-
----
-
 ## 📌 Support & Donations
 
 <p align="center">
@@ -155,11 +101,5 @@ I'm a passionate **Web Developer** and **Ethical Hacker** who loves building too
 This README and all projects in this repository are under **MIT License** unless otherwise stated.
 
 ---
-
-<!-- Snake Game - نیاز به GitHub Action داره، فعلاً غیرفعاله
-<p align="center">
-  <img src="https://github.com/Amirdev-kb/Amirdev-kb/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Game" />
-</p>
--->
 
 ⭐ **Don't forget to star this repo if you found it useful!** ⭐
