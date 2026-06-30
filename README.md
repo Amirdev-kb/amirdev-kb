@@ -47,30 +47,6 @@ Polyglot developer with full mastery across 20+ languages. I engineer elegant, s
 
 
 ---
-📈 GitHub Profile Summary Cards
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Amirdev-kb&theme=radical" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Amirdev-kb&theme=radical" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Amirdev-kb&theme=radical" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Amirdev-kb&theme=radical" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Amirdev-kb&theme=radical&utcOffset=3.5" width="48%" />
-</p>
-
-___
-
-
-🎲 Random Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
-</p>
 
 ☕ Support & Sponsorship
 
@@ -79,14 +55,3 @@ ___
   <a href="https://www.paypal.me/Amirdev_kb"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" /></a>
   <a href="https://github.com/sponsors/Amirdev-kb"><img src="https://img.shields.io/badge/GitHub_Sponsors-30363D?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
-
----
-
-"Great code is crafted, tested, secured, and shared."
-
----
-
-⭐ If this README inspired you, drop a star – it fuels the dragon's fire! ⭐
-
-___
-
