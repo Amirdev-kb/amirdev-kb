@@ -20,17 +20,16 @@
 
 ---
 
-## 🐉 Kali Dragon's Den
+## 💻 Programming Languages I Speak
 
-> *"Where code meets security, and the dragon breathes fire into every line."*
-
-I'm a **Web Developer** & **Cybersecurity Enthusiast** – and **Kali Linux** is my weapon of choice.  
-I live in the terminal, customize tools, break things ethically, and build secure web apps.
-
-🔹 **Linux** – my second home  
-🔹 **Kali** – my dragon's lair  
-🔹 **VS Code** – my forge  
-🔹 **Python & Bash** – my spells  
+| Language | Level | What I build with it |
+|----------|-------|----------------------|
+| **Python** | 🟢 Advanced | Automation, hacking tools, web backends, AI scripts |
+| **JavaScript** | 🟢 Advanced | Interactive UIs, full‑stack web apps (React, Node.js) |
+| **PHP** | 🟡 Intermediate | Dynamic websites, REST APIs, bug bounty tools |
+| **C++** | 🟡 Intermediate | Performance‑critical apps, game mods, system tools |
+| **Bash** | 🟢 Advanced | Kali automation, recon scripts, Linux customization |
+| **SQL** | 🟡 Intermediate | Database queries, data analysis, backend logic |
 
 ---
 
