@@ -1,4 +1,6 @@
 <p align="center">
+  <img src="https://www.kali.org/images/kali-dragon-icon.svg" alt="Kali Dragon" width="120" height="120" />
+  <br />
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00C6FF&center=true&vCenter=true&random=false&width=600&lines=Hi%2C+I'm+Amirdev;Ethical+Hacker+%26+Web+Dev;Always+Learning+New+Things" alt="Typing SVG" />
 </p>
 
@@ -7,22 +9,28 @@
   <br />
   <img src="https://img.shields.io/github/followers/Amirdev-kb?style=social" alt="Followers" />
   <img src="https://img.shields.io/github/stars/Amirdev-kb?style=social" alt="Stars" />
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white" alt="Kali Linux" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Amirdev-kb&theme=radical&hide_border=true&background=0d1117&fire=00C6FF&ring=00C6FF&currStreakNum=FFFFFF" width="100%" />
+  <img src="https://streak-stats.demolab.com/?user=Amirdev-kb&theme=radical&hide_border=true&background=0d1117&fire=00C6FF&ring=00C6FF&currStreakNum=FFFFFF&card_width=900" width="100%" />
 </p>
 
 ---
 
-## 🧑‍💻 About Me – *The Short Version*
+## 🐉 Kali Dragon's Den
 
-> 🐧 Linux | 🎯 Kali | 💻 Web Dev | ⚡ VS Code | 🛡️ Ethical Hacking
+> *"Where code meets security, and the dragon breathes fire into every line."*
 
-I build web apps, break them ethically, and automate everything with Python & Bash.  
-Living in the terminal, customizing Kali tools, and coding till 3 AM. 🚀
+I'm a **Web Developer** & **Cybersecurity Enthusiast** – and **Kali Linux** is my weapon of choice.  
+I live in the terminal, customize tools, break things ethically, and build secure web apps.
+
+🔹 **Linux** – my second home  
+🔹 **Kali** – my dragon's lair  
+🔹 **VS Code** – my forge  
+🔹 **Python & Bash** – my spells  
 
 ---
 
