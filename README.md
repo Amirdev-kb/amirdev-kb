@@ -10,12 +10,18 @@
 
 ## 🧑‍💻 About Me
 
-I'm a passionate **Web Developer** and **Ethical Hacker** who loves building tools, solving problems, and exploring the digital world. I believe in continuous learning and sharing knowledge with the community.
+I'm a **Web Developer** & **Cybersecurity Enthusiast** who lives at the intersection of code and security. My daily drivers are **Linux** (especially **Kali**) and **VS Code** – where I write clean code, break things ethically, and build cool stuff.
 
-- 🔭 Currently working on: **Penetration Testing tools** & **Full-Stack Web Apps**
-- 🌱 Learning: **Advanced Node.js**, **Docker**, **Bug Bounty Techniques**
-- 👯 Looking to collaborate on: **Open-source security projects**
-- ⚡ Fun fact: I type faster than I think 😄
+- 🐧 **Linux lover** – I breathe terminals, bash scripts, and customize everything from `/etc/` to `.dotfiles`
+- 🎯 **Kali Linux expert** – I use tools like **Nmap**, **Burp Suite**, **Metasploit**, **Wireshark**, and **John the Ripper** for penetration testing and vulnerability assessment
+- 🌐 **Web builder** – I create full‑stack web apps with **HTML**, **CSS**, **JavaScript**, **React**, **Node.js**, and **PHP**
+- 💻 **Code craftsman** – I write **Python**, **C++**, and **Bash** to automate tasks, build tools, and solve real‑world problems
+- ⚡ **VS Code addict** – My editor is my kingdom, packed with extensions, shortcuts, and a dark theme that never sleeps
+- 🛡️ **Ethical hacker** – I believe in securing the digital world by finding flaws before the bad guys do
+- 📚 **Lifelong learner** – Always exploring new technologies, techniques, and vulnerabilities
+- 🤝 **Open source contributor** – I love sharing code, collaborating with others, and giving back to the community
+
+> "The best way to predict the future is to build it – and secure it." 🚀
 
 ---
 
