@@ -17,6 +17,22 @@
 Polyglot developer with full mastery across 20+ languages. I engineer elegant, secure, and scalable solutions – from systems to web, mobile to cloud, automation to AI.
 
 ---
+📈 GitHub Profile Summary Cards
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Amirdev-kb&theme=radical" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Amirdev-kb&theme=radical" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Amirdev-kb&theme=radical" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Amirdev-kb&theme=radical" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Amirdev-kb&theme=radical&utcOffset=3.5" width="48%" />
+</p>
+---
 
 ## 🛠️ Language Mastery – Full Stack
 
