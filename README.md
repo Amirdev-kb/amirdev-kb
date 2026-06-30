@@ -14,6 +14,21 @@
 
 ---
 
+## ◆ GitHub Repository Stats
+
+<p align="center">
+  <img src="https://img.shields.io/github/stars/Amirdev-kb/Amirdev-kb?style=for-the-badge&logo=github&logoColor=white&color=ffd700" alt="Stars" />
+  <img src="https://img.shields.io/github/forks/Amirdev-kb/Amirdev-kb?style=for-the-badge&logo=github&logoColor=white&color=00C6FF" alt="Forks" />
+  <img src="https://img.shields.io/github/issues/Amirdev-kb/Amirdev-kb?style=for-the-badge&logo=github&logoColor=white&color=red" alt="Issues" />
+  <img src="https://img.shields.io/github/issues-pr/Amirdev-kb/Amirdev-kb?style=for-the-badge&logo=github&logoColor=white&color=green" alt="Pull Requests" />
+  <br />
+  <img src="https://img.shields.io/github/license/Amirdev-kb/Amirdev-kb?style=for-the-badge&logo=github&logoColor=white&color=blue" alt="License" />
+  <img src="https://img.shields.io/github/last-commit/Amirdev-kb/Amirdev-kb?style=for-the-badge&logo=github&logoColor=white&color=orange" alt="Last Commit" />
+  <img src="https://img.shields.io/github/commit-activity/m/Amirdev-kb/Amirdev-kb?style=for-the-badge&logo=github&logoColor=white&color=purple" alt="Commit Activity" />
+</p>
+
+---
+
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Amirdev-kb&theme=radical&hide_border=true&background=0d1117&fire=00C6FF&ring=00C6FF&currStreakNum=FFFFFF&card_width=900" width="100%" />
 </p>
