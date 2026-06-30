@@ -12,51 +12,53 @@
 
 ## ◆ Polymath Programmer & Security Architect
 
-> *"Code is my language – security is my mission, and every line tells a story."*
+> *"Code is my language – security is my mission."*
 
-I am a **polyglot programmer** with mastery across **all major programming languages** – from low‑level systems to high‑level web frameworks, from mobile to cloud, from automation to artificial intelligence. I don't just write code; I engineer solutions that are **elegant, secure, and scalable**.
-
-My expertise spans **20+ languages**, **full‑stack development**, **DevOps**, **cybersecurity**, and **cloud architecture**. I thrive in the terminal, build in VS Code, and break things ethically to make them stronger.
+Polyglot developer with full mastery across 20+ languages. I engineer elegant, secure, and scalable solutions – from systems to web, mobile to cloud, automation to AI.
 
 ---
 
-## ◆ Languages – Full Mastery (20+)
+## ◆ Language Mastery – Visual Edition
 
-| Language | Level | Key Applications |
-|----------|-------|------------------|
-| **Python** | ★★★★★ | AI/ML, Automation, Web (Django/Flask), Security Tools, Data Science |
-| **JavaScript** | ★★★★★ | Full‑Stack (React, Node, Express), Interactive UIs, Real‑time Apps |
-| **TypeScript** | ★★★★★ | Large‑Scale Web Apps, Angular, React, Enterprise Systems |
-| **PHP** | ★★★★★ | CMS (WordPress), REST APIs, Bug Bounty Platforms, Dynamic Websites |
-| **Java** | ★★★★★ | Enterprise Backends, Android, Microservices, Spring Boot |
-| **C#** | ★★★★★ | Windows Apps, Game Dev (Unity), Enterprise Software, ASP.NET |
-| **C++** | ★★★★★ | System Programming, Game Engines, Performance‑Critical Apps |
-| **C** | ★★★★★ | Operating Systems, Embedded Systems, Low‑Level Programming |
-| **Go** | ★★★★★ | Microservices, Cloud Infrastructure, High‑Performance CLI Tools |
-| **Rust** | ★★★★★ | Systems Programming, WebAssembly, Memory‑Safe Applications |
-| **Ruby** | ★★★★★ | Web (Ruby on Rails), Automation, DevOps Scripting |
-| **Swift** | ★★★★★ | iOS/macOS Applications, Mobile Development |
-| **Kotlin** | ★★★★★ | Android Development, Modern JVM Applications |
-| **Bash** | ★★★★★ | Linux Automation, System Admin, DevOps Pipelines |
-| **SQL** | ★★★★★ | Database Design, Complex Queries, Performance Tuning, Data Analysis |
-| **HTML5/CSS3** | ★★★★★ | Semantic Markup, Responsive Design, Animations, UI/UX |
-| **R** | ★★★★☆ | Statistical Computing, Data Visualization, Research |
-| **Dart** | ★★★★☆ | Cross‑Platform Mobile (Flutter), Web Apps |
-| **Perl** | ★★★★☆ | Text Processing, System Administration, Legacy Systems |
-| **Lua** | ★★★★☆ | Game Scripting, Embedded Scripting, Automation |
-| **Scala** | ★★★★☆ | Big Data (Spark), Functional Programming, JVM |
-| **Elixir** | ★★★★☆ | Scalable Web Apps (Phoenix), Fault‑Tolerant Systems |
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+  <br />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" />
+  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
+  <br />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <br />
+  <img src="https://img.shields.io/badge/Perl-39457E?style=for-the-badge&logo=perl&logoColor=white" />
+  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white" />
+  <img src="https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
 
 ---
 
 ## ▸ My Daily Arsenal
 
 ```txt
-Operating Systems : Kali Linux / Ubuntu / Windows 11
-Editor            : VS Code (80+ extensions, custom keybindings)
-Primary Languages : Python, JavaScript, TypeScript, PHP, Java, C#, C++, Go, Rust, Ruby, Swift, Kotlin, Bash, SQL
-Web Frameworks    : React, Next.js, Node.js, Express, Django, Flask, Spring Boot, Ruby on Rails, ASP.NET Core, Phoenix
-Security Tools    : Nmap, Burp Suite, Metasploit, Wireshark, John the Ripper, Hydra, Sqlmap, Nikto, Nessus, OWASP ZAP
-Databases         : PostgreSQL, MySQL, MongoDB, Redis, SQLite, Oracle, Cassandra
-DevOps & Cloud    : Docker, Kubernetes, Jenkins, GitHub Actions, Terraform, Ansible, AWS, Azure, GCP, DigitalOcean
-Version Control   : Git (advanced branching strategies, rebasing, hooks)
+OS       : Kali Linux / Ubuntu / Windows 11
+Editor   : VS Code (80+ extensions)
+Langs    : Python, JS, TS, PHP, Java, C#, C++, C, Go, Rust, Ruby, Swift, Kotlin, Bash, HTML/CSS, R, Dart, Perl, Lua, Scala, Elixir, SQL
+Web      : React, Next.js, Node.js, Django, Flask, Spring Boot, Ruby on Rails, ASP.NET, Phoenix
+Security : Nmap, Burp Suite, Metasploit, Wireshark, John, Hydra, Sqlmap, Nikto, Nessus, ZAP
+DB       : PostgreSQL, MySQL, MongoDB, Redis, SQLite, Oracle, Cassandra
+DevOps   : Docker, Kubernetes, Jenkins, GitHub Actions, Terraform, Ansible
+Cloud    : AWS, Azure, GCP, DigitalOcean
