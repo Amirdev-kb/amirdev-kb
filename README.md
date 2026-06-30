@@ -12,7 +12,7 @@
 ---
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Amirdev-kb&theme=radical&hide_border=true&background=0d1117&fire=00C6FF&ring=00C6FF&currStreakNum=FFFFFF" width="45%" />
+  <img src="https://streak-stats.demolab.com/?user=Amirdev-kb&theme=radical&hide_border=true&background=0d1117&fire=00C6FF&ring=00C6FF&currStreakNum=FFFFFF" width="70%" />
 </p>
 
 ---
